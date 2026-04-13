@@ -1,64 +1,85 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+layout: default
 ---
 
-{% include base_path %}
+# Jason Ackermann
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+📍 Würzburg  
+📧 jason.ackermann@stud-mail.uni-wuerzburg.de  
+💻 https://github.com/jasonvla  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Student Research Assistant, University of Würzburg  
+*04/2026 – present*  
+- Computer-assisted data analysis  
+- Participation in research projects  
+- Supervisor: Prof. Dr. Fabian Moss  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+### Orchestra Management Internship, Mainfranken Theater Würzburg  
+*02/2026 – 03/2026*  
+- Personnel and data management in theatre operations  
+
+---
+
+## Projects
+
+### An Algorithmic Comparison of Bach and AI Chorales  
+*11/2025 – present*  
+- Voluntary research project (Supervisor: Prof. Dr. Fabian Moss)  
+- Objective: Understanding AI-generated musical compositions  
+- Developed analysis algorithms in Python using `music21`  
+- Presentation at ICCCM (September 2026)  
+
+---
+
+## Education
+
+### Julius Maximilian University of Würzburg  
+*B.A. Digital Humanities (starting 09/2026)*  
+
+### Julius Maximilian University of Würzburg  
+*B.A. Musicology (09/2024 – present, Ø 1.0)*  
+
+### Gymnasium Veitshöchheim  
+*Abitur (09/2016 – 06/2024, Ø 1.2)*  
+
+---
+
+## Engagement & Scholarships
+
+- German National Academic Foundation (Studienstiftung des deutschen Volkes), 12/2024 – present  
+- e-fellows.net Scholarship, 06/2024 – present  
+- MozartLabor Scholarship (MozartFest), 04/2025 – 07/2025  
+- Member of the Bavarian State Youth Orchestra, 05/2024 – 12/2024  
+- Volunteer concert activities (church preservation), 05/2018 – 06/2022  
+
+---
+
+## Skills
+
+**Technical:** Python, LaTeX, R (basic), MS Office  
+**Tools:** Git, GitHub, Jupyter Notebook  
+
+**Languages:**  
+- German (native)  
+- English (C1)  
+- French (B2)  
+- Italian (A2)  
+- Portuguese (A1)  
+
+---
+
+## Musical Activities
+
+- Electric Guitar (since 2026)  
+- Piano (since 2024)  
+- Principal Viola, Musica Medica (since 2022)  
+- Member of JKO Würzburg (since 2022)  
+- Viola & Violin (since 2011)  
