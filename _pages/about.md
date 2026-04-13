@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Welcome!
 
 I am currently in my fourth semester of a bachelor’s degree in musicology at the Institute for Music Research at Julius Maximilian University of Würzburg (JMU), and I will also be starting a bachelor’s degree in digital humanities this coming winter semester. 
 
