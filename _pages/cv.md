@@ -2,6 +2,7 @@
 title: "CV"
 permalink: /cv/
 layout: default
+classes: wide
 ---
 
 # Jason Ackermann
@@ -64,8 +65,8 @@ layout: default
 
 ## Skills
 
-**Technical:** Python, LaTeX, R (basic), MS Office  
-**Tools:** Git, GitHub, Jupyter Notebook  
+**Programming:** Python · LaTeX · R (basic)  
+**Tools:** Git · GitHub · Jupyter  
 
 **Languages:**  
 - German (native)  
