@@ -3,7 +3,7 @@ name: Sync CV PDF
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"  # alle 6 Stunden
+    - cron: "0 */2 * * *"  # alle 2 Stunden
   push:
     paths:
       - ".github/workflows/sync-cv.yml"
