@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Jason Ackermann",
+    "email": "jason.ackermann@stud-mail.uni-wuerzburg.de",
+    "phone": "+49 160 7604778",
+    "website": "https://jasonvla.github.io",
+    "summary": "Student of Musicology at Julius Maximilian University Würzburg with research experience in computational music analysis and AI-generated compositions.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Würzburg",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
     "profiles": [
       {
@@ -25,128 +25,160 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "jasonvla",
+        "url": "https://github.com/jasonvla"
       }
     ]
   },
-  "work": [],
+
+  "work": [
+    {
+      "name": "Julius Maximilian University Würzburg",
+      "position": "Student Research Assistant",
+      "startDate": "2026-04",
+      "endDate": "",
+      "summary": "Computer-assisted data analysis and participation in research projects.",
+      "highlights": [
+        "Worked on computational data analysis",
+        "Participation in academic research projects",
+        "Supervisor: Prof. Dr. Fabian Moss"
+      ]
+    },
+    {
+      "name": "Mainfranken Theater Würzburg",
+      "position": "Orchestra Management Intern",
+      "startDate": "2026-02",
+      "endDate": "2026-03",
+      "summary": "Personnel and data management in theatre operations.",
+      "highlights": []
+    }
+  ],
+
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Julius Maximilian University Würzburg",
+      "area": "Digital Humanities",
+      "studyType": "B.A.",
+      "startDate": "2026-09",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Julius Maximilian University Würzburg",
+      "area": "Musicology",
+      "studyType": "B.A.",
+      "startDate": "2024-09",
+      "endDate": "",
+      "gpa": "1.0",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Gymnasium Veitshöchheim",
+      "area": "Abitur",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2016-09",
+      "endDate": "2024-06",
+      "gpa": "1.2",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+
+  "skills": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Programming",
+      "keywords": ["Python", "LaTeX", "R (basic)"]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Tools",
+      "keywords": ["Git", "GitHub", "Jupyter Notebook", "MS Office"]
     }
   ],
+
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "French",
+      "fluency": "B2"
+    },
+    {
+      "language": "Italian",
+      "fluency": "A2"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "A1"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": ["Viola", "Violin", "Piano", "Electric Guitar"]
+    }
+  ],
+
+  "publications": [],
+
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "An Algorithmic Comparison of Bach and AI Chorales",
+      "event": "ICCCM",
+      "date": "2026-09",
+      "location": "",
+      "description": "Presentation of research on AI-generated compositions using Python and music21."
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+
+  "teaching": [],
+
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "An Algorithmic Comparison of Bach and AI Chorales",
+      "category": "research",
+      "date": "2025",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Research project analyzing AI-generated chorales using custom Python algorithms and the music21 library."
     }
-  ]
+  ],
+
+"awards": [
+  {
+    "title": "German National Academic Foundation Scholarship (Studienstiftung des deutschen Volkes)",
+    "date": "2024-12",
+    "awarder": "",
+    "summary": "Since 12/2024"
+  },
+  {
+    "title": "e-fellows.net Scholarship",
+    "date": "2024-06",
+    "awarder": "",
+    "summary": "Since 06/2024"
+  },
+  {
+    "title": "MozartLabor Scholarship (MozartFest)",
+    "date": "2025-04",
+    "awarder": "",
+    "summary": "04/2025 – 07/2025"
+  },
+  {
+    "title": "Member of the Bavarian State Youth Orchestra",
+    "date": "2024-05",
+    "awarder": "",
+    "summary": "05/2024 – 12/2024"
+  },
+  {
+    "title": "Volunteer concert activities (church preservation)",
+    "date": "2018-05",
+    "awarder": "",
+    "summary": "05/2018 – 06/2022"
+  }
+]
 }
