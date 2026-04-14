@@ -18,16 +18,16 @@ jobs:
 
       - name: Download CV PDF from CV repo
         run: |
-          mkdir -p assets
+          mkdir -p files
           curl -L \
             https://raw.githubusercontent.com/jasonvla/cv/main/CV.pdf \
-            -o assets/CV.pdf
+            -o files/CV.pdf
 
       - name: Commit changes if needed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add assets/CV.pdf
+          git add files/CV.pdf
 
           git diff --cached --quiet && echo "No changes" || (
             git commit -m "🔄 sync CV PDF from cv repo"
