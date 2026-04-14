@@ -4,7 +4,7 @@
     "email": "jason.ackermann@stud-mail.uni-wuerzburg.de",
     "phone": "+49 160 7604778",
     "website": "https://jasonvla.github.io",
-    "summary": "Student of Musicology at Julius Maximilian University Würzburg with research experience in computational music analysis and AI-generated compositions.",
+    "summary": "Student of Musicology at Julius Maximilian University Würzburg with focus on computational music analysis.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -13,16 +13,6 @@
       "region": "Bavaria"
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
       {
         "network": "GitHub",
         "username": "jasonvla",
@@ -140,10 +130,17 @@
   "teaching": [],
 
   "portfolio": [
+        {
+      "name": "Computational Analysis of Brazilian Choro",
+      "date": "2026",
+      "url": "https://fabianmoss.github.io/choro/",
+      "description":
+      "This project investigates how new digital technologies can support the musical practice of Brazilian choro. Our research combines musicological expertise and cultural heritage research with computational methods for large-scale music analysis and the development of AI-driven tools for harmonic analysis and automatic harmonization of choro melodies."
+      
+    },
     {
       "name": "An Algorithmic Comparison of Bach and AI Chorales",
-      "category": "research",
-      "date": "2025",
+      "date": "2026",
       "url": "",
       "description": "Research project analyzing AI-generated chorales using custom Python algorithms and the music21 library."
     }
