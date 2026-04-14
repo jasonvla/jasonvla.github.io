@@ -119,11 +119,11 @@
 
   "presentations": [
     {
-      "name": "An Algorithmic Comparison of Bach and AI Chorales",
+      "name": "(Upcoming) An Algorithmic Comparison of Bach and AI Chorales",
       "event": "ICCCM",
-      "date": "2026-09",
-      "location": "",
-      "description": "Presentation of research on AI-generated compositions using Python and music21."
+      "date": "September 2026",
+      "location": "Würzburg",
+      "description": "Presentation of statistical evaluations of AI-generated compositions using Python and music21."
     }
   ],
 
@@ -141,7 +141,7 @@
     {
       "name": "An Algorithmic Comparison of Bach and AI Chorales",
       "date": "2026",
-      "url": "",
+      "url": "https://github.com/jasonvla/bachAndNotagenCorpora",
       "description": "Research project analyzing AI-generated chorales using custom Python algorithms and the music21 library."
     }
   ],
