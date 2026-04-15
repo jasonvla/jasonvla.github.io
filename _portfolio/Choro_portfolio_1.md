@@ -2,6 +2,8 @@
 title: "Computational Analysis of Brazilian Choro"
 excerpt: "<br/><img src='/images/Choro_1.jpg'>"
 collection: portfolio
+date: 2026-01-01
+excerpt: "Currently in development"  
 status: "In Progress"
 ---
 
