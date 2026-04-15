@@ -1,6 +1,6 @@
 ---
 title: "Computational Analysis of Brazilian Choro"
-excerpt: "<br/><img src='/Choro_1.jpg'>"
+excerpt: "<br/><img src='/images/Choro_1.jpg'>"
 collection: portfolio
 date: 04-2026
 ---
