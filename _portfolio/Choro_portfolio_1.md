@@ -2,7 +2,7 @@
 title: "Computational Analysis of Brazilian Choro"
 excerpt: "<br/><img src='/images/Choro_1.jpg'>"
 collection: portfolio
-date: 04-2026
+date: WIP
 ---
 
 This project investigates how new digital technologies can support the musical practice of Bra-
