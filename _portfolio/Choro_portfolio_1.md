@@ -2,7 +2,8 @@
 title: "Computational Analysis of Brazilian Choro"
 excerpt: "<br/><img src='/images/Choro_1.jpg'>"
 collection: portfolio
-date: WIP
+date: 2026-04-15
+status: "In Progress"
 ---
 
 This project investigates how new digital technologies can support the musical practice of Bra-
