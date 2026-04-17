@@ -2,7 +2,8 @@
 title: "An Algorithmic Comparison of Bach and AI Chorales"
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
-status: "In Progress"
+status: "Work In Progress"
+date: 2026-04-17
 ---
 
 This project uses statistical and computational methods in order to map differences between
