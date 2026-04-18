@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Digital Music Research / Digital Humanities"
   location         : "Würzburg | Germany"
-  employer         : "Julius Maximilian University"
+  employer         : "Julius-Maximilians-Universität"
   uri              : # URL
   email            : "jason.ackermann@stud-mail.uni-wuerzburg.de" 
 
@@ -51,7 +51,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "jasonvla"
-  kaggle           : "jasonvla"  
+  kaggle           : # "jasonvla"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
