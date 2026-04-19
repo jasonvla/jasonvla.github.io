@@ -1,6 +1,6 @@
 ---
 title: "An Algorithmic Comparison of Bach and AI Chorales"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/bach_notagen.png'>"
 collection: portfolio
 status: "Work In Progress"
 ---
