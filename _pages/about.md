@@ -18,4 +18,4 @@ I aim to pursue graduate studies at the intersection of musicology and artificia
 ---
 # Selected Experience
 
-I am currently working as a student assistant under the supervision of [Prof. Fabian Moss](https://fabian-moss.de), primarily using and developing machine learning models and algorithms in the field of digital music research. [Click here](https://jasonvla.github.io/portfolio/) to learn more about our recent projects.
+I am currently working as a student assistant with [Prof. Fabian Moss](https://fabian-moss.de), primarily using and developing machine learning models and algorithms in the field of digital music research. [Click here](https://jasonvla.github.io/portfolio/) to learn more about our recent projects.
