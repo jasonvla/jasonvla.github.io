@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+*🌍 [Zur deutschen Version wechseln](/de/)*
+
 I am currently in my fourth semester of a bachelor’s degree in musicology at the [Institute for Music Research](https://www.musikwissenschaft.uni-wuerzburg.de) at [Julius Maximilian University of Würzburg](https://www.uni-wuerzburg.de) (JMU). I will be starting a second bachelor’s degree in digital humanities at the [Zentrum für Philologie und Digitalität](https://www.uni-wuerzburg.de/zpd/) (ZPD) this coming winter semester. 
 
 ---
