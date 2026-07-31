@@ -6,7 +6,7 @@ author_profile: true
 
 *🌍 [Switch to English version](/)*
 
-Ich studiere aktuell im fünften Fachsemester Musikwissenschaft am [Institut für Musikforschung](https://www.musikwissenschaft.uni-wuerzburg.de) an der [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de) (JMU). Darüber hinaus studiere ich im ersten Semester Digital Humanities am [Zentrum für Philologie und Digitalität](https://www.uni-wuerzburg.de/zpd/) (ZPD).
+Ich studiere derzeit zwei Bachelorstudiengänge parallel an der <a href="https://www.uni-wuerzburg.de" target="_blank" rel="noopener noreferrer">Julius-Maximilians-Universität Würzburg (JMU)</a> – einen in Musikwissenschaft am <a href="https://www.musikwissenschaft.uni-wuerzburg.de" target="_blank" rel="noopener noreferrer">Institut für Musikforschung</a> sowie einen weiteren in Digital Humanities am <a href="https://www.uni-wuerzburg.de/zpd/" target="_blank" rel="noopener noreferrer">Zentrum für Philologie und Digitalität (ZPD)</a>.
 
 ---
 

@@ -9,7 +9,7 @@ redirect_from:
 
 *🌍 [Zur deutschen Version wechseln](/de/)*
 
-I am currently pursuing two bachelor degrees at <a href="https://www.uni-wuerzburg.de" target="_blank" rel="noopener noreferrer">Julius Maximilian University of Würzburg (JMU)</a>. One in Musicology at the <a href="https://www.musikwissenschaft.uni-wuerzburg.de" target="_blank" rel="noopener norefferer">Institute for Music Research</a> and in Digital Humanities at the <a href="https://www.uni-wuerzburg.de/zpd/" target="_blank" rel="noopener noreferrer">Zentrum für Philologie und Digitalität (ZPD)</a>. 
+I am currently pursuing two bachelor degrees at <a href="https://www.uni-wuerzburg.de" target="_blank" rel="noopener noreferrer">Julius Maximilian University of Würzburg (JMU)</a>. One in musicology at the <a href="https://www.musikwissenschaft.uni-wuerzburg.de" target="_blank" rel="noopener noreferrer">Institute for Music Research</a> and also in digital humanities at the <a href="https://www.uni-wuerzburg.de/zpd/" target="_blank" rel="noopener noreferrer">Zentrum für Philologie und Digitalität (ZPD)</a>. 
 
 ---
 
