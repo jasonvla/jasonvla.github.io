@@ -1,8 +1,9 @@
 ---
 title: "Human vs AI in Symbolic Music: An Online Listening Study on Bach-Style Chorales"
 excerpt: "<br/><img src='/images/corr_vs_incorr_indiv.png'>"
+date: 2026-09-22
 collection: portfolio
-status: "Work In Progress"
+status: "Finished"
 ---
 
 This project uses statistical and computational methods in order to map differences between
