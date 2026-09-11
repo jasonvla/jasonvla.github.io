@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign wip_entries = site.portfolio | where: "status", "Work In Progress" | sort: "date" | reverse %}
+{% assign finished_entries = site.portfolio | where: "status", "Finished" | sort: "date" | reverse %}
+{% assign portfolio_entries = wip_entries | concat: finished_entries %}
 
-{% for post in site.portfolio %}
+{% for post in portfolio_entries %}
   {% include archive-single.html %}
 {% endfor %}
-
